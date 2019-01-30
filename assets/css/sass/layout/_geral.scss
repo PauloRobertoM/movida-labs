@@ -1,0 +1,30 @@
+* {
+    outline: none;
+}
+a,
+button {
+    text-decoration: none!important;
+    cursor: pointer!important;
+    transition: 1s;
+}
+p {
+    line-height: 1.5;
+}
+ul {
+    padding: 0;
+}
+li {
+    list-style: none;
+}
+body {
+    margin: 0;
+    font-family: 'Circe Regular';
+}
+.container {
+    max-width: 1600px!important;
+    width: 100%;
+}
+
+@media (max-width: 767px) {
+
+}

@@ -1,11 +1,11 @@
 (function($, window) {
     $('#owl-vitrine').owlCarousel({
         loop: true,
-        autoplay: false,
+        autoplay: true,
         margin: 0,
         nav: true,
         navText: ["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],
-        dots: false,
+        dots: true,
         responsive:{
             0:{
                 items:1
@@ -18,6 +18,4 @@
             }
         }
     });
-
-    $('.cpf').mask('000.000.000-00', {reverse: true});
 })(jQuery, window);
