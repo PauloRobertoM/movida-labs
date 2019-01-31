@@ -1,0 +1,41 @@
+.programacao {
+	padding: 15px 0;
+	li {
+		display: flex;
+		align-items: center;
+		padding: 10px 0;
+		border-bottom: 1px solid $laranja;
+	}
+	.data  {
+		text-align: center;
+		width: 45%;
+		float: left;
+		margin-top: -10px;
+		h2 {
+			font-size: 80px;
+			font-weight: bold;
+			color: $laranja;
+			margin: 0
+		}
+		h4 {
+			font-size: 26px;
+			font-weight: bold;
+			color: $cinza;
+			text-transform: uppercase;
+			margin: -25px 0 0;
+		}
+	}
+	.item:first-child {
+	    border-bottom: 1px solid $cinza;
+	    margin-bottom: 10px;
+	    padding-bottom: 10px;
+	}
+	p {
+		font-size: 14px;
+		color: $cinza;
+		margin: 0;
+		span {
+			font-weight: bold;
+		}
+	}
+}

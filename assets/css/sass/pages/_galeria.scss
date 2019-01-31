@@ -1,0 +1,11 @@
+.galeria {
+	margin-top: -19px;
+	.item {
+		width: 33.33%;
+		float: left;
+		border: 1px solid #fff;
+		img {
+			width: 100%;
+		}
+	}
+}

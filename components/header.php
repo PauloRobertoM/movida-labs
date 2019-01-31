@@ -6,18 +6,20 @@
         <meta http-equiv="content-language" content="pt-br">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        <meta name="author" content="Soulphia">
-        <meta name="keywords" content="ingles, nativo, soulphia, professora nativa, nova york, new york, america, americano, lingua estrangeira, aula, aula de ingles, mudar de vida, ensino de ingles, ensino a distancia, ead, estados unidos, usa">
-        <meta name="description" content="Ensinar inglês não só as recompensam financeiramente, mas também proporciona uma nova maneira de enxergar o mundo de forma mais positiva, acreditando que é possível mudar de vida e seguir em frente, além de terem a auto-estima elevada.">
-        <meta name="reply-to" content="soulphia@soulphia.com">
-        <meta name="theme-color" content="#EE1B48">
-        <title>Soulphia</title>
+        <meta name="author" content="Movida">
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+        <meta name="reply-to" content="">
+        <meta name="theme-color" content="#e46000">
+        <title>Movida Labs 2019</title>
 
         <link rel="icon" href="assets/images/favicon.png" type="image/x-icon" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,400,900" rel="stylesheet">
 
         <link rel='stylesheet' href='assets/css/bootstrap.min.css' type='text/css' />
         <link rel='stylesheet' href='assets/css/hover-min.css' type='text/css' />
         <link rel='stylesheet' href='assets/css/owl.carousel.min.css' type='text/css' />
+        <link rel='stylesheet' href='assets/css/lightbox.min.css' type='text/css' />
         <link rel='stylesheet' href='assets/css/estilos.min.css' type='text/css' />
     </head>
 
@@ -33,13 +35,16 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="index.php"><img class="logo" src="assets/images/logo-principal-soulphia.svg" alt="" /></a>
+                            <a class="navbar-brand" href="index.php"><img class="logo" src="assets/images/logo-movida-labs.jpg" alt="" /></a>
                         </div><!-- .navbar-header -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav">
-                                <li><a href="">CRÉDITOS</a></li>
-                                <li><a href="">CONFIGURAÇÕES</a></li>
-                                <li><a href="">CENTRAL DE AJUDA</a></li>
+                                <li><a href="">A EXPERIÊNCIA</a></li>
+                                <li><a href="">PROGRAMAÇÃO</a></li>
+                                <li><a href="">A EXPERIÊNCIA</a></li>
+                                <li><a href="">GALERIA</a></li>
+                                <li><a href="">AINDA TEM MAIS!</a></li>
+                                <li><a href="">FALE CONOSCO</a></li>
                             </ul><!-- .nav -->
                         </div><!-- .navbar-collapse -->
                     </div><!-- .container -->

@@ -1,5 +1,4 @@
 // Helpers
-@import "helpers/_fonts";
 @import "helpers/_variaveis";
 @import "helpers/_mixins";
 // Layouts
@@ -8,3 +7,7 @@
 @import "layout/_footer";
 @import "layout/_mobile";
 // Páginas
+@import "pages/_index";
+@import "pages/_a-experiencia";
+@import "pages/_programacao";
+@import "pages/_galeria";

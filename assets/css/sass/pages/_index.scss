@@ -1,0 +1,28 @@
+.vitrine img {
+	width: 100%;
+	margin-top: -19px;
+}
+.menu-inicial {
+	padding: 15px 0;
+	background: $cinza;
+	.item {
+		text-align: center;
+		display: flex;
+		align-items: center;
+		margin-bottom: 15px;
+		background: $laranja;
+		padding: 10px 5px;
+	}
+	img {
+		width: 60%;
+		margin: 0 auto 20px;
+		display: block;
+	}
+	h4 {
+		font-size: 14px;
+		font-weight: bold;
+		color: #fff;
+		text-transform: uppercase;
+		margin: 0;
+	}
+}
